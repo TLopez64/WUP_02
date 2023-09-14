@@ -41,8 +41,6 @@ data = veggy
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
-
-
 ## Descriptive Results
 
 ### Graphical Descriptive Results
