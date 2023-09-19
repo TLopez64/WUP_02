@@ -81,10 +81,10 @@ anova_result <- aov(VitC ~ Cult, data = data)
 summary(anova_result)
 ```
 
-Is a difference on the vitamin c content based cultivation. There is a difference between vitamin c content based on cultivation. The p value is 0.00000000307. I will reject the null hypothesis because the p value is small.
+Is a difference on the vitamin c content based cultivation. There is a difference between vitamin c content based on cultivation. The p value is 0.00000003405. I will reject the null hypothesis because the p value is small.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-The question was, Is there a difference in the vitamin c contents based on cabbage cultivation. Yes there is a difference because the graph shows a jump in numbers in c52 compared to c39. Since the p value is small I would have to reject the null hypothesis.
+The original question was, Is there a difference in average VitC between c39 and c52 cultivation methods?. Yes there is a difference because the graph shows a jump in numbers in c52 compared to c39. Since the p value is small I would have to reject the null hypothesis. I would conclude there is a difference and c52 has a better vitamin c production than c39.
